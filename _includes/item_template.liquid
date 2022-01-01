@@ -1,0 +1,26 @@
+{% assign item = include.item %}
+
+# {{ item.name }}
+
+## Description  
+{{item.description}}  
+
+{% if item.food %}
+## Food
+**Saturation:**  {{item.food.saturation}}  
+**Nutrition:**  {{item.food.nutrition}}  
+{% if item.food.alwaysEat %}You can eat this item without being hungry.{% endif %}
+
+{% if item.food.effects %}
+
+### Effects
+{% for effect in item.food.effects %}
+- **{{ effect.name }}**  
+    - Duration: {{ effect.duration | divided_by: 20.0 }} seconds
+    - Level: {{ effect.level | plus: 1 }}  
+{% endfor %}
+
+
+{% endif %}
+
+{% endif %}

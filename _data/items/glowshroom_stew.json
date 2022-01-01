@@ -1,0 +1,22 @@
+{
+    "name": "Glowshroom Stew",
+    "id": "biomemakeover:glowshroom_stew",
+    "description": "Glowshroom Stew can be crafted by combining Purple, Orange and Green Glowshrooms with a bowl.",
+    "food": {
+        "alwaysEat": true,
+        "saturation": 0.6,
+        "nutrition": 5,
+        "effects": [
+            {
+                "name": "Night Vision",
+                "duration": 1200,
+                "level": 0
+            },
+            {
+                "name": "Glowing",
+                "duration": 1200,
+                "level": 0
+            }
+        ]
+    }
+}
