@@ -1,6 +1,6 @@
 ---
-title: item.biomemakeover.magenta_petals
-item: "magenta_petals"
+title: item.biomemakeover.cladded_helmet
+item: "cladded_helmet"
 ---
 
 {% assign it = site.data.items[page.item] %}
