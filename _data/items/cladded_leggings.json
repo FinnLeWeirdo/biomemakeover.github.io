@@ -8,6 +8,7 @@
     "toughness": 15.0,
     "enchantment": 0.0,
     "knockbackResistance": 0.07,
+    "slot": "Legs",
     "repairItems": [
       "Leather"
     ]

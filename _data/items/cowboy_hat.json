@@ -8,6 +8,7 @@
     "toughness": 0.0,
     "enchantment": 0.0,
     "knockbackResistance": 0.0,
+    "slot": "Head",
     "repairItems": [
       "Leather"
     ]
