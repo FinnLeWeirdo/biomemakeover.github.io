@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.ancient_oak_boat
+title: Ancient Oak Boat
 item: "ancient_oak_boat"
 ---
 

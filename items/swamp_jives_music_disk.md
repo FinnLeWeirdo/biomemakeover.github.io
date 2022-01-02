@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.swamp_jives_music_disk
+title: Music Disc
 item: "swamp_jives_music_disk"
 ---
 

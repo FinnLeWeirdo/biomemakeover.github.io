@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.willow_boat
+title: Willow Boat
 item: "willow_boat"
 ---
 

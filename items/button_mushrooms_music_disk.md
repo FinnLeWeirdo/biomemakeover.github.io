@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.button_mushrooms_music_disk
+title: Music Disc
 item: "button_mushrooms_music_disk"
 ---
 

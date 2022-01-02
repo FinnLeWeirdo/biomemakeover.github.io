@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.brown_petals
+title: Brown Petals
 item: "brown_petals"
 ---
 

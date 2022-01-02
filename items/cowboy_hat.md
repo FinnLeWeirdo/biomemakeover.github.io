@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.cowboy_hat
+title: Cowboy Hat
 item: "cowboy_hat"
 ---
 

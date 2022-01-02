@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.ectoplasm
+title: Ectoplasm
 item: "ectoplasm"
 ---
 

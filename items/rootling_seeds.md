@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.rootling_seeds
+title: Rootling Seeds
 item: "rootling_seeds"
 ---
 

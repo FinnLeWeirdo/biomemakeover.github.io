@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.glowfish_bucket
+title: Bucket of Glowfish
 item: "glowfish_bucket"
 ---
 

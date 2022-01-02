@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.enchanted_totem
+title: Enchanted Totem of Undying
 item: "enchanted_totem"
 ---
 

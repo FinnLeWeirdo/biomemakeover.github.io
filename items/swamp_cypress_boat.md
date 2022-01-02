@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.swamp_cypress_boat
+title: Swamp Cypress Boat
 item: "swamp_cypress_boat"
 ---
 

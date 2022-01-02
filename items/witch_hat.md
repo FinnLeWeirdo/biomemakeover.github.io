@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.witch_hat
+title: Witch Hat
 item: "witch_hat"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.cladded_chestplate
+title: Cladded Chestplate
 item: "cladded_chestplate"
 ---
 

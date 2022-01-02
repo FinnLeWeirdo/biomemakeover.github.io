@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.red_rose_music_disk
+title: Music Disc
 item: "red_rose_music_disk"
 ---
 

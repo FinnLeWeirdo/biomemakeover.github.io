@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.icon_item
+title: Biome Makeover
 item: "icon_item"
 ---
 

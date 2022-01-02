@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.cladded_helmet
+title: Cladded Helmet
 item: "cladded_helmet"
 ---
 

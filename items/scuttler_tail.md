@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.scuttler_tail
+title: Scuttler Tail
 item: "scuttler_tail"
 ---
 

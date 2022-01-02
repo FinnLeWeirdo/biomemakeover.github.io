@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.stunt_powder
+title: Stunt Powder
 item: "stunt_powder"
 ---
 

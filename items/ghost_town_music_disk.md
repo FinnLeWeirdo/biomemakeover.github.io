@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.ghost_town_music_disk
+title: Music Disc
 item: "ghost_town_music_disk"
 ---
 

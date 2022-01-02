@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.bulbus_root
+title: Bulbus Root
 item: "bulbus_root"
 ---
 

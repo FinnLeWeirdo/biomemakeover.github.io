@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.cladded_leggings
+title: Cladded Leggings
 item: "cladded_leggings"
 ---
 

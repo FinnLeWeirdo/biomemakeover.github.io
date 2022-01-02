@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.blighted_balsa_boat
+title: Blighted Balsa Boat
 item: "blighted_balsa_boat"
 ---
 

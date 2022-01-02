@@ -1,5 +1,5 @@
 ---
-title: item.biomemakeover.lightning_bottle
+title: Bottle o' Lightning
 item: "lightning_bottle"
 ---
 
