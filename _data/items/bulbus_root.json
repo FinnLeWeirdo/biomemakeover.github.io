@@ -1,0 +1,10 @@
+{
+  "name": "item.biomemakeover.bulbus_root",
+  "id": "biomemakeover:bulbus_root",
+  "description": "This item does not have a description yet!",
+  "foodWiki": {
+    "saturation": 0.6,
+    "nutrition": 2.0,
+    "alwaysEat": false
+  }
+}
