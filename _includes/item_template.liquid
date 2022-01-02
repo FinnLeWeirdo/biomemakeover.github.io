@@ -25,16 +25,16 @@
 
 {% if item.armor %}
 ## Armor  
-**Defence:** {{item.armor.defence}}
-**Toughness:** {{item.armor.defence}}
-**Enchanting:** {{item.armor.defence}}
-**Knockback Resistance:** {{item.armor.defence}}
+**Defence:** {{item.armor.defence}}  
+**Toughness:** {{item.armor.defence}}  
+**Enchanting:** {{item.armor.defence}}  
+**Knockback Resistance:** {{item.armor.defence}}  
 
 {% if item.armor.repairItems %}
 
 ### Repair Items
 {% for item in item.armor.repairItems %}
-- {{item}}
+- {{item}}  
 {% endfor %}
 {% endif %}
 {% endif %}
