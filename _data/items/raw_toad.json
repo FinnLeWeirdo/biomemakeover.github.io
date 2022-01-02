@@ -2,7 +2,7 @@
   "name": "Raw Toad",
   "id": "biomemakeover:raw_toad",
   "description": "This item does not have a description yet!",
-  "foodWiki": {
+  "food": {
     "saturation": 0.3,
     "nutrition": 3.0,
     "alwaysEat": false

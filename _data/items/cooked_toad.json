@@ -2,7 +2,7 @@
   "name": "Cooked Toad",
   "id": "biomemakeover:cooked_toad",
   "description": "This item does not have a description yet!",
-  "foodWiki": {
+  "food": {
     "saturation": 0.6,
     "nutrition": 6.0,
     "alwaysEat": false

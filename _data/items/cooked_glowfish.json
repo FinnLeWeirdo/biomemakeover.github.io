@@ -2,7 +2,7 @@
   "name": "Cooked Glowfish",
   "id": "biomemakeover:cooked_glowfish",
   "description": "This item does not have a description yet!",
-  "foodWiki": {
+  "food": {
     "saturation": 0.6,
     "nutrition": 5.0,
     "effects": [

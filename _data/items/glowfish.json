@@ -2,7 +2,7 @@
   "name": "Glowfish",
   "id": "biomemakeover:glowfish",
   "description": "This item does not have a description yet!",
-  "foodWiki": {
+  "food": {
     "saturation": 0.1,
     "nutrition": 1.0,
     "effects": [
