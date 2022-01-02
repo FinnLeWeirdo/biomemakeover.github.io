@@ -8,13 +8,13 @@
     "effects": [
       {
         "name": "Night Vision",
-        "length": 10.0,
+        "length": 200.0,
         "level": 0,
         "chance": 0.5
       },
       {
         "name": "Glowing",
-        "length": 10.0,
+        "length": 200.0,
         "level": 0,
         "chance": 0.5
       }
