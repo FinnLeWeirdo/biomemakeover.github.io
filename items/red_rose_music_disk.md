@@ -1,5 +1,5 @@
 ---
-title: Music Disc
+title: Music Disc (Damiano Baldoni - Red Rose)
 item: "red_rose_music_disk"
 ---
 

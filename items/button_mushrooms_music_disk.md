@@ -1,5 +1,5 @@
 ---
-title: Music Disc
+title: Music Disc (Podington Bear - Button Mushrooms)
 item: "button_mushrooms_music_disk"
 ---
 

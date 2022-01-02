@@ -1,5 +1,5 @@
 ---
-title: Music Disc
+title: Music Disc (Lobo Loco - Ghost Town)
 item: "ghost_town_music_disk"
 ---
 

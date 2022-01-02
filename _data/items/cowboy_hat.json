@@ -1,5 +1,19 @@
 {
   "name": "Cowboy Hat",
   "id": "biomemakeover:cowboy_hat",
-  "description": "This item does not have a description yet!"
+  "description": "This item does not have a description yet!",
+  "armor": {
+    "armorName": "Hat",
+    "defence": 2.0,
+    "toughness": 0.0,
+    "enchantment": 0.0,
+    "knockbackResistance": 0.0,
+    "repairItems": [
+      "Leather"
+    ]
+  },
+  "tags": [
+    "armor",
+    "hat"
+  ]
 }

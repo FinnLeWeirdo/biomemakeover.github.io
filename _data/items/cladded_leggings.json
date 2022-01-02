@@ -1,5 +1,19 @@
 {
   "name": "Cladded Leggings",
   "id": "biomemakeover:cladded_leggings",
-  "description": "This item does not have a description yet!"
+  "description": "This item does not have a description yet!",
+  "armor": {
+    "armorName": "Cladded",
+    "defence": 4.0,
+    "toughness": 15.0,
+    "enchantment": 0.0,
+    "knockbackResistance": 0.07,
+    "repairItems": [
+      "Leather"
+    ]
+  },
+  "tags": [
+    "armor",
+    "cladded"
+  ]
 }

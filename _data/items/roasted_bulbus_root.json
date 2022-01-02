@@ -6,5 +6,8 @@
     "saturation": 0.8,
     "nutrition": 5.0,
     "alwaysEat": false
-  }
+  },
+  "tags": [
+    "food"
+  ]
 }
