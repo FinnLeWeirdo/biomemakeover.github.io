@@ -1,0 +1,10 @@
+{
+  "name": "Roasted Bulbus Root",
+  "id": "biomemakeover:roasted_bulbus_root",
+  "description": "This item does not have a description yet!",
+  "foodWiki": {
+    "saturation": 0.8,
+    "nutrition": 5.0,
+    "alwaysEat": false
+  }
+}

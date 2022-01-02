@@ -1,0 +1,24 @@
+{
+  "name": "Cooked Glowfish",
+  "id": "biomemakeover:cooked_glowfish",
+  "description": "This item does not have a description yet!",
+  "foodWiki": {
+    "saturation": 0.6,
+    "nutrition": 5.0,
+    "effects": [
+      {
+        "name": "Night Vision",
+        "length": 10.0,
+        "level": 0,
+        "chance": 0.5
+      },
+      {
+        "name": "Glowing",
+        "length": 10.0,
+        "level": 0,
+        "chance": 0.5
+      }
+    ],
+    "alwaysEat": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Glowshroom Stew",
+  "id": "biomemakeover:glowshroom_stew",
+  "description": "This item does not have a description yet!",
+  "foodWiki": {
+    "saturation": 0.6,
+    "nutrition": 5.0,
+    "effects": [
+      {
+        "name": "Night Vision",
+        "length": 60.0,
+        "level": 0,
+        "chance": 1.0
+      },
+      {
+        "name": "Glowing",
+        "length": 60.0,
+        "level": 0,
+        "chance": 1.0
+      }
+    ],
+    "alwaysEat": true
+  }
+}

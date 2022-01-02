@@ -1,0 +1,24 @@
+{
+  "name": "Glowfish",
+  "id": "biomemakeover:glowfish",
+  "description": "This item does not have a description yet!",
+  "foodWiki": {
+    "saturation": 0.1,
+    "nutrition": 1.0,
+    "effects": [
+      {
+        "name": "Night Vision",
+        "length": 10.0,
+        "level": 0,
+        "chance": 0.5
+      },
+      {
+        "name": "Glowing",
+        "length": 10.0,
+        "level": 0,
+        "chance": 0.5
+      }
+    ],
+    "alwaysEat": true
+  }
+}
