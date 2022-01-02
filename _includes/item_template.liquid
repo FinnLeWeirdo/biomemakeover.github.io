@@ -16,7 +16,7 @@
 ### Effects
 {% for effect in item.food.effects %}
 - **{{ effect.name }}**  
-    - Duration: {{ effect.duration | divided_by: 20.0 }} seconds
+    - Duration: {{ effect.length | divided_by: 20.0 }} seconds
     - Level: {{ effect.level | plus: 1 }}  
 {% endfor %}
 
