@@ -15,7 +15,7 @@ The underground of the Mushroom Fields biome has been given a makeover. Now feat
 Purple and green are found underground, while the orange can be found in the water.
 
 
-### Tall Mushrooms  
+### [Tall Mushrooms](../content/tall_mushrooms)  
 2 Tall brown and red mushroom can be found throughout the biome. Shear them to gather some smaller mushrooms or use them as decoration.
 
 
