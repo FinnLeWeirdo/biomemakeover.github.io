@@ -22,7 +22,7 @@ Purple and green are found underground, while the orange can be found in the wat
 ### [Wild Mushrooms](../content/mushrooms#wild-mushrooms)  
 Wild mushrooms can be found in the biome. Shear to collect or break to gather a few mushrooms.
 
-### [Sprouts](../content/mushrooms#mycelium-sprouts) and [Roots]((../content/mushrooms#mycelium-roots))  
+### [Sprouts](../content/mushrooms#mycelium-sprouts) and [Roots]((../content/mushrooms#mycelium-roots)  
 Mycelium Sprouts and roots can be found atop the mycelium.
 
 ### Blighted Balsa  
