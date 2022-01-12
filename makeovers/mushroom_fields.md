@@ -1,47 +1,47 @@
 ---
-title: Badlands
+title: Mushroom Fields
 ---
 
-# Badlands
+# Mushroom Fields
 
 ## Content
 
-### Ghost Towns  
-Abandoned towns can be found. With no sign of any living inhabitants, these structures contain loot for you to pillage. Though some say the echos of the previous occupants still haunt the land.  
+### Underground  
+The underground of the Mushroom Fields biome has been given a makeover. Now featuring large mycelium patches, the caves are home to Glowshrooms and other fungus
 
-### Ghosts  
-These neutral mobs haunt the ghost towns. They will interact with nearby blocks (levers, doors, buttons, etc.). They drop ectoplasm when killed.
 
-### Ectoplasm
-This item dropped by ghosts can be used to craft the poltergeist or can convert composting materials into soul soil using a composter.
+### [Glowshrooms](../content/mushrooms#glowshrooms)  
+3 varieties of glowshroom can be found in the mushroom fields, purple, green and orange.  
+Purple and green are found underground, while the orange can be found in the water.
 
-### Poltergeist 
-This block can be crafted with ectoplasm. This block will act like the ghosts, interacting with various blocks around it in a 5x5 radius.
 
-### Paydirt  
-Paydirt generates near water. Breaking this block will drop various ores.
+### [Tall Mushrooms](../content/mushrooms#tall-mushrooms)  
+2 Tall brown and red mushroom can be found throughout the biome. Shear them to gather some smaller mushrooms or use them as decoration.
 
-### Fossils  
-Vanilla fossils will generate on the surface of the biome.
 
-### Barrel Cactus  
-This small cactus generates on red sand throughout the mesa. Over time, this cactus grows a pink flower. When a Scuttler ears this flower, a pink petal is dropped.
+### [Wild Mushrooms](../content/mushrooms#wild-mushrooms)  
+Wild mushrooms can be found in the biome. Shear to collect or break to gather a few mushrooms.
 
-### Saguaro Cactus  
-Saguaro cactus is a large cactus with branching arms. A single piece of this cactus can be bonemealed to grow it into it's large form.  
+### [Sprouts](../content/mushrooms#mycelium-sprouts) and [Roots](../content/mushrooms#mycelium-roots)  
+Mycelium Sprouts and roots can be found atop the mycelium.
 
-### Tumbleweed  
-Cosmetic tumbleweed will occasionally bounce through the mesa.
+### Blighted Balsa  
+Blighted Balsa trees can be found on the surface of the biome.
 
-### Scuttler  
-The scuttler is a small, lizard/scorpion-like creature. This creature isn't dangerous, but it will try warn you off with it's rattling tail. Occasionally this animal will eat a flowered barrel cactus, producing pink petals.  
-Feeding pink petals to a scuttler will stop it from running away from you, also causing it to enter love mode, allowing it to breed.
 
-### Bandits  
-Patrols of cowboy bandits have been seen through the badlands. These bandits are equipped with crossbows, cowboy hats and a unique banner.
+### Brown Mooshrooms  
+Brown Mooshrooms will now spawn naturally like red mooshrooms.
 
-### Cowboy hats  
-Cowboy hats are stylish hats that can be found within Ghost towns or dropped by bandits.  
+### Glowfish  
+These glowing orange fish can be found on the shores of the biome.
 
-### Terracotta Bricks  
-Terracotta of all colours can be crafted into decorative terracotta bricks.
+
+### Blightbat  
+This purple bat can be found in the caves of the biome.
+
+### Mushroom Trader  
+Driven insane by prolonged exposure of the fungus, this villager will trade you a variety of mushroom themed goods!
+
+
+### Building Blocks  
+Each huge mushroom's block can be crafted into bricks. Mushroom roots can be combined with stone brick or cobblestone to create blighted stone brick.
