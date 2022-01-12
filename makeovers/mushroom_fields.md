@@ -19,7 +19,10 @@ Purple and green are found underground, while the orange can be found in the wat
 2 Tall brown and red mushroom can be found throughout the biome. Shear them to gather some smaller mushrooms or use them as decoration.
 
 
-### Sprouts and Roots  
+### [Wild Mushrooms](../content/mushrooms#wild-mushrooms)  
+Wild mushrooms can be found in the biome. Shear to collect or break to gather a few mushrooms.
+
+### [Sprouts](../content/mushrooms#mycelium-sprouts) and [Roots]((../content/mushrooms#mycelium-roots))  
 Mycelium Sprouts and roots can be found atop the mycelium.
 
 ### Blighted Balsa  
@@ -42,4 +45,3 @@ Driven insane by prolonged exposure of the fungus, this villager will trade you 
 
 ### Building Blocks  
 Each huge mushroom's block can be crafted into bricks. Mushroom roots can be combined with stone brick or cobblestone to create blighted stone brick.
-

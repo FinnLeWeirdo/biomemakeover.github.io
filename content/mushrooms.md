@@ -29,3 +29,14 @@ Red and brown tall mushrooms are a two tall variant of red/brown mushrooms. They
 Shear the block to be given 1 - 3 small mushrooms of the appropriate type. This destroys the Tall Mushroom.
 
 Bonemealing the tall mushrooms will drop another tall mushroom of the same type.
+
+## Wild Mushrooms  
+Wild Mushrooms can be found in Mushroom Fields and Dark Forest biomes.  
+Break this block to be given a few red or brown mushrooms. Alternatively, you can break the block the block with shears to harvest it without destroying the block.
+
+
+## Mycelium Sprouts
+Mycelium Sprouts generate in the mushroom fields biome. Shears are required to harvest them. These are purely decorative blocks. 
+
+## Mycelium Roots  
+Mycelium Roots generate in the mushroom fields biome. These are purely decorative blocks. 
