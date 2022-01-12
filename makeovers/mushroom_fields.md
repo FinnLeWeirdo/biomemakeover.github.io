@@ -10,12 +10,12 @@ title: Mushroom Fields
 The underground of the Mushroom Fields biome has been given a makeover. Now featuring large mycelium patches, the caves are home to Glowshrooms and other fungus
 
 
-### [Glowshrooms](../content/glowshrooms)  
+### [Glowshrooms](../content/mushrooms#glowshrooms)  
 3 varieties of glowshroom can be found in the mushroom fields, purple, green and orange.  
 Purple and green are found underground, while the orange can be found in the water.
 
 
-### [Tall Mushrooms](../content/tall_mushrooms)  
+### [Tall Mushrooms](../content/mushrooms#tall-mushrooms)  
 2 Tall brown and red mushroom can be found throughout the biome. Shear them to gather some smaller mushrooms or use them as decoration.
 
 

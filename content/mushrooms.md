@@ -1,5 +1,5 @@
 ---
-title: Glowshrooms
+title: Mushrooms
 ---
 
 ## Glowshrooms
@@ -21,3 +21,11 @@ Orange glowshrooms can be found in the water surrounding the mushroom fields bio
 ### [Stew](../items/glowshroom_stew)  
 Combing all three varieties of glowshroom together along with a bowl will allow you to craft glowshroom stew.  
 Consuming this stew will restore your hunger and grant you the night vision and glowing effects for 1 minute.
+
+
+## Tall Mushrooms
+
+Red and brown tall mushrooms are a two tall variant of red/brown mushrooms. They can be found in Mushroom Fields biomes.  
+Shear the block to be given 1 - 3 small mushrooms of the appropriate type. This destroys the Tall Mushroom.
+
+Bonemealing the tall mushrooms will drop another tall mushroom of the same type.
