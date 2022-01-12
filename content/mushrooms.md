@@ -39,4 +39,4 @@ Break this block to be given a few red or brown mushrooms. Alternatively, you ca
 Mycelium Sprouts generate in the mushroom fields biome. Shears are required to harvest them. These are purely decorative blocks. 
 
 ## Mycelium Roots  
-Mycelium Roots generate in the mushroom fields biome. These are purely decorative blocks. 
+Mycelium Roots generate in the mushroom fields biome. These are purely decorative as blocks, but can be combined with cobblestone or stone brick to create Blighted Stone Bricks/Cobblestone.
