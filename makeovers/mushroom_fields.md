@@ -28,13 +28,13 @@ Blighted Balsa trees can be found on the surface of the biome.
 ### Brown Mooshrooms  
 Brown Mooshrooms will now spawn naturally like red mooshrooms.
 
-### Glowfish  
+### [Glowfish](../features/mobs#glowfish)  
 These glowing orange fish can be found on the shores of the biome.
 
-### Blightbat  
+### [Blightbat](../features/mobs#blightbat)  
 This purple bat can be found in the caves of the biome.
 
-### Mushroom Trader  
+### [Mushroom Trader](../features/mobs#mushroom-trader)  
 Driven insane by prolonged exposure of the fungus, this villager will trade you a variety of mushroom themed goods!
 
 ### Building Blocks  
