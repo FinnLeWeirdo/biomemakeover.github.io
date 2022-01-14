@@ -34,8 +34,7 @@ Saguaro cactus is a large cactus with branching arms. A single piece of this cac
 Cosmetic tumbleweed will occasionally bounce through the mesa.
 
 ### [Scuttler](../features/mobs#scuttler)  
-The scuttler is a small, lizard/scorpion-like creature. This creature isn't dangerous, but it will try warn you off with it's rattling tail. Occasionally this animal will eat a flowered barrel cactus, producing pink petals.  
-Feeding pink petals to a scuttler will stop it from running away from you, also causing it to enter love mode, allowing it to breed.
+The scuttler is a small, lizard/scorpion-like creature with a rattling tail.
 
 ### [Bandits](../features/mobs#bandit)  
 Patrols of cowboy bandits have been seen through the badlands. These bandits are equipped with crossbows, cowboy hats and a unique banner.
