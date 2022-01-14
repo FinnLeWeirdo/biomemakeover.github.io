@@ -1,6 +1,6 @@
 ---
 title: Potted Willow Sapling
-item: "potted_willow_sapling"
+block: "potted_willow_sapling"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

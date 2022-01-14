@@ -1,6 +1,6 @@
 ---
 title: Magenta Terracotta Brick Stairs
-item: "magenta_terracotta_brick_stairs"
+block: "magenta_terracotta_brick_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

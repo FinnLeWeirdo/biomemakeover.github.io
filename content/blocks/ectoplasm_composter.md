@@ -1,6 +1,6 @@
 ---
 title: Composter
-item: "ectoplasm_composter"
+block: "ectoplasm_composter"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

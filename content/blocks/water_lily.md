@@ -1,6 +1,6 @@
 ---
 title: Water Lily
-item: "water_lily"
+block: "water_lily"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

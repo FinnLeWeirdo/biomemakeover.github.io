@@ -1,6 +1,6 @@
 ---
 title: Mesermite Wall
-item: "mesmerite_wall"
+block: "mesmerite_wall"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

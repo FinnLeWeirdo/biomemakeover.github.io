@@ -1,6 +1,6 @@
 ---
 title: Gray Terracotta Brick Stairs
-item: "gray_terracotta_brick_stairs"
+block: "gray_terracotta_brick_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

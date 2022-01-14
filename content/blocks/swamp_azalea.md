@@ -1,6 +1,6 @@
 ---
 title: Swamp Azalea
-item: "swamp_azalea"
+block: "swamp_azalea"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

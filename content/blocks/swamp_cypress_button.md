@@ -1,6 +1,6 @@
 ---
 title: Swamp Cypress Button
-item: "swamp_cypress_button"
+block: "swamp_cypress_button"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

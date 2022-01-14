@@ -1,6 +1,6 @@
 ---
 title: Swamp Cypress Trapdoor
-item: "swamp_cypress_trapdoor"
+block: "swamp_cypress_trapdoor"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Green Terracotta Brick Wall
-item: "green_terracotta_brick_wall"
+block: "green_terracotta_brick_wall"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Dried Peat Brick Stairs
-item: "dried_peat_bricks_stairs"
+block: "dried_peat_bricks_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

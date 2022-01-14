@@ -1,6 +1,6 @@
 ---
 title: Cracked Dried Peat Brick Slab
-item: "cracked_dried_peat_brick_slab"
+block: "cracked_dried_peat_brick_slab"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

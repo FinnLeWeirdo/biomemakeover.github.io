@@ -1,6 +1,6 @@
 ---
 title: Willow Sign
-item: "willow_sign"
+block: "willow_sign"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

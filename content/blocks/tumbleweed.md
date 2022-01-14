@@ -1,6 +1,6 @@
 ---
 title: Tumbleweed
-item: "tumbleweed"
+block: "tumbleweed"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

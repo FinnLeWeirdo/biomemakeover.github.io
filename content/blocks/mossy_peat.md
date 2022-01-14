@@ -1,6 +1,6 @@
 ---
 title: Mossy Peat
-item: "mossy_peat"
+block: "mossy_peat"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

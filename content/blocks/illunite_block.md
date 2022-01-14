@@ -1,6 +1,6 @@
 ---
 title: Block of Illunite
-item: "illunite_block"
+block: "illunite_block"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

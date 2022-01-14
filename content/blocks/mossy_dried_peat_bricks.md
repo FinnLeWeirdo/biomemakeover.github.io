@@ -1,6 +1,6 @@
 ---
 title: Mossy Dried Peat Bricks
-item: "mossy_dried_peat_bricks"
+block: "mossy_dried_peat_bricks"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

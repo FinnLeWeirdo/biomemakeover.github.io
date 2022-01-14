@@ -1,6 +1,6 @@
 ---
 title: Black Tapestry
-item: "black_tapestry"
+block: "black_tapestry"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

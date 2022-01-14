@@ -1,6 +1,6 @@
 ---
 title: Directional Data Block
-item: "directional_data"
+block: "directional_data"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

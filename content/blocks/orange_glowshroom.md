@@ -1,6 +1,6 @@
 ---
 title: Orange Glowshroom
-item: "orange_glowshroom"
+block: "orange_glowshroom"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Cladded Stone
-item: "cladded_stone"
+block: "cladded_stone"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

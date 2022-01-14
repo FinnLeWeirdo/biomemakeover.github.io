@@ -1,6 +1,6 @@
 ---
 title: Altar
-item: "altar"
+block: "altar"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Blighted Cobblestone
-item: "blighted_cobblestone"
+block: "blighted_cobblestone"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

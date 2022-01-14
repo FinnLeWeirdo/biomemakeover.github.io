@@ -1,6 +1,6 @@
 ---
 title: Moth Blossom
-item: "moth_blossom"
+block: "moth_blossom"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

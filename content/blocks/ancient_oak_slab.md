@@ -1,6 +1,6 @@
 ---
 title: Ancient Oak Slab
-item: "ancient_oak_slab"
+block: "ancient_oak_slab"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

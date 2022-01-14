@@ -1,6 +1,6 @@
 ---
 title: Glowshroom Stem
-item: "glowshroom_stem"
+block: "glowshroom_stem"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

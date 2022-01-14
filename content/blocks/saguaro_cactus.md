@@ -1,6 +1,6 @@
 ---
 title: Saguaro Cactus
-item: "saguaro_cactus"
+block: "saguaro_cactus"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

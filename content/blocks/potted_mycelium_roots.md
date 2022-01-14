@@ -1,6 +1,6 @@
 ---
 title: Potted Mycelium Roots
-item: "potted_mycelium_roots"
+block: "potted_mycelium_roots"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

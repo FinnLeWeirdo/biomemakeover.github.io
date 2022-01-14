@@ -1,6 +1,6 @@
 ---
 title: Green Terracotta Brick Stairs
-item: "green_terracotta_brick_stairs"
+block: "green_terracotta_brick_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

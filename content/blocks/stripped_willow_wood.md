@@ -1,6 +1,6 @@
 ---
 title: Stripped Willow Wood
-item: "stripped_willow_wood"
+block: "stripped_willow_wood"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

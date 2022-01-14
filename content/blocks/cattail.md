@@ -1,6 +1,6 @@
 ---
 title: Cattail
-item: "cattail"
+block: "cattail"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

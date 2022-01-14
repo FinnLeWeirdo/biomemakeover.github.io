@@ -1,6 +1,6 @@
 ---
 title: Willow Pressure Plate
-item: "willow_pressure_plate"
+block: "willow_pressure_plate"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

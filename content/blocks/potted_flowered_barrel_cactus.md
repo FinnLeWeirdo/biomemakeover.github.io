@@ -1,6 +1,6 @@
 ---
 title: Potted Flowered Barrel Cactus
-item: "potted_flowered_barrel_cactus"
+block: "potted_flowered_barrel_cactus"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

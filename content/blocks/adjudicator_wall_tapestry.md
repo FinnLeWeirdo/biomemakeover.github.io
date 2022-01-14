@@ -1,6 +1,6 @@
 ---
 title: Adjudicator Tapestry
-item: "adjudicator_wall_tapestry"
+block: "adjudicator_wall_tapestry"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

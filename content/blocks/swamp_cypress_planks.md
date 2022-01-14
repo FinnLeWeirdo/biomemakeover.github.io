@@ -1,6 +1,6 @@
 ---
 title: Swamp Cypress Planks
-item: "swamp_cypress_planks"
+block: "swamp_cypress_planks"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

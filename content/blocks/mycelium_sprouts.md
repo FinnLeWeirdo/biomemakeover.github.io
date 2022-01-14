@@ -1,6 +1,6 @@
 ---
 title: Mycelium Sprouts
-item: "mycelium_sprouts"
+block: "mycelium_sprouts"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

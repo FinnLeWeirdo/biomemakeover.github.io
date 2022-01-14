@@ -1,6 +1,6 @@
 ---
 title: Potted Wild Mushrooms
-item: "potted_wild_mushrooms"
+block: "potted_wild_mushrooms"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

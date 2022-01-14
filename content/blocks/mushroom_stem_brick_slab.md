@@ -1,6 +1,6 @@
 ---
 title: Mushroom Stem Brick Slab
-item: "mushroom_stem_brick_slab"
+block: "mushroom_stem_brick_slab"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

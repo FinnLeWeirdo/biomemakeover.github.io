@@ -1,6 +1,6 @@
 ---
 title: Light Blue Terracotta Brick Wall
-item: "light_blue_terracotta_brick_wall"
+block: "light_blue_terracotta_brick_wall"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

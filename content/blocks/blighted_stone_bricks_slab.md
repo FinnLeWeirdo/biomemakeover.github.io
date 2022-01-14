@@ -1,6 +1,6 @@
 ---
 title: Blighted Stone Brick Slab
-item: "blighted_stone_bricks_slab"
+block: "blighted_stone_bricks_slab"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

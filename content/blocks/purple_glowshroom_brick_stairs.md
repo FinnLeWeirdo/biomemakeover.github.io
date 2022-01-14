@@ -1,6 +1,6 @@
 ---
 title: Purple Glowshroom Brick Stairs
-item: "purple_glowshroom_brick_stairs"
+block: "purple_glowshroom_brick_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

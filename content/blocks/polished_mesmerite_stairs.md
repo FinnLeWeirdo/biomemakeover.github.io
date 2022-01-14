@@ -1,6 +1,6 @@
 ---
 title: Polished Mesermite Stairs
-item: "polished_mesmerite_stairs"
+block: "polished_mesmerite_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

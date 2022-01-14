@@ -1,6 +1,6 @@
 ---
 title: Blighted Cobblestone Stairs
-item: "blighted_cobblestone_stairs"
+block: "blighted_cobblestone_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

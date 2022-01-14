@@ -1,6 +1,6 @@
 ---
 title: Tall Red Mushroom
-item: "tall_red_mushroom"
+block: "tall_red_mushroom"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

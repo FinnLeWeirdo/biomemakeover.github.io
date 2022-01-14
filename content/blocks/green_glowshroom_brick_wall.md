@@ -1,6 +1,6 @@
 ---
 title: Green Glowshroom Brick Wall
-item: "green_glowshroom_brick_wall"
+block: "green_glowshroom_brick_wall"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

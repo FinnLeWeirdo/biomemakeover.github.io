@@ -1,6 +1,6 @@
 ---
 title: Peat Farmland
-item: "peat_farmland"
+block: "peat_farmland"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Black Thistle
-item: "black_thistle"
+block: "black_thistle"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

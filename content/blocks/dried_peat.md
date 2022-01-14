@@ -1,6 +1,6 @@
 ---
 title: Dried Peat
-item: "dried_peat"
+block: "dried_peat"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

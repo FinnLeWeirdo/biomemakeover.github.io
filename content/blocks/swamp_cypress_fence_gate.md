@@ -1,6 +1,6 @@
 ---
 title: Swamp Cypress Fence Gate
-item: "swamp_cypress_fence_gate"
+block: "swamp_cypress_fence_gate"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

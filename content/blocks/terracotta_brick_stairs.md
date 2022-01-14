@@ -1,6 +1,6 @@
 ---
 title: Terracotta Brick Stairs
-item: "terracotta_brick_stairs"
+block: "terracotta_brick_stairs"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

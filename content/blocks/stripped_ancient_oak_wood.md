@@ -1,6 +1,6 @@
 ---
 title: Stripped Ancient Oak Wood
-item: "stripped_ancient_oak_wood"
+block: "stripped_ancient_oak_wood"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Brown Mushroom Brick Wall
-item: "brown_mushroom_brick_wall"
+block: "brown_mushroom_brick_wall"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

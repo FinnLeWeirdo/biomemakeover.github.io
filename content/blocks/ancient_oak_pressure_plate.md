@@ -1,6 +1,6 @@
 ---
 title: Ancient Oak Pressure Plate
-item: "ancient_oak_pressure_plate"
+block: "ancient_oak_pressure_plate"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

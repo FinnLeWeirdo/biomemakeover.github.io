@@ -1,6 +1,6 @@
 ---
 title: Willow Door
-item: "willow_door"
+block: "willow_door"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

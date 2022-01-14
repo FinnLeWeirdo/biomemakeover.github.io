@@ -1,6 +1,6 @@
 ---
 title: Pay Dirt
-item: "paydirt"
+block: "paydirt"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

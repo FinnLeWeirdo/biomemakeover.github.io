@@ -1,6 +1,6 @@
 ---
 title: Terracotta Brick Slab
-item: "terracotta_brick_slab"
+block: "terracotta_brick_slab"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

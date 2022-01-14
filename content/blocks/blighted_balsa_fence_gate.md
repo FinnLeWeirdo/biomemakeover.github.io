@@ -1,6 +1,6 @@
 ---
 title: Blighted Balsa Fence Gate
-item: "blighted_balsa_fence_gate"
+block: "blighted_balsa_fence_gate"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

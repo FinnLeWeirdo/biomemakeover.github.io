@@ -1,6 +1,6 @@
 ---
 title: Itching Ivy
-item: "itching_ivy"
+block: "itching_ivy"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

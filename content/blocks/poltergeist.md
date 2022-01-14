@@ -1,6 +1,6 @@
 ---
 title: Poltergeist
-item: "poltergeist"
+block: "poltergeist"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

@@ -1,6 +1,6 @@
 ---
 title: Pink Terracotta Bricks
-item: "pink_terracotta_bricks"
+block: "pink_terracotta_bricks"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

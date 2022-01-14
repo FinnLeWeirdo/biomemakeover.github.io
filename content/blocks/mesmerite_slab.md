@@ -1,6 +1,6 @@
 ---
 title: Mesmerite Slab
-item: "mesmerite_slab"
+block: "mesmerite_slab"
 ---
 
 {% assign it = site.data.blocks[page.block] %}

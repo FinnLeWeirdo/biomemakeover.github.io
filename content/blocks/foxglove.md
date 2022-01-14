@@ -1,6 +1,6 @@
 ---
 title: Foxglove
-item: "foxglove"
+block: "foxglove"
 ---
 
 {% assign it = site.data.blocks[page.block] %}
