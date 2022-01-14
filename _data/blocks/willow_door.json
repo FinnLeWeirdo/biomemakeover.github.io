@@ -1,0 +1,23 @@
+{
+  "name": "Willow Door",
+  "id": "biomemakeover:willow_door",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:wooden_doors",
+      "minecraft:doors",
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

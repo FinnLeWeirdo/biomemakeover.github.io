@@ -1,0 +1,21 @@
+{
+  "name": "Orange Glowshroom Block",
+  "id": "biomemakeover:orange_glowshroom_block",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.2,
+    "destroyTime": 0.2,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.9,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

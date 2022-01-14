@@ -1,0 +1,22 @@
+{
+  "name": "Red Terracotta Brick Wall",
+  "id": "biomemakeover:red_terracotta_brick_wall",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 2.0,
+    "destroyTime": 2.0,
+    "requiresTool": true
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/pickaxe",
+      "minecraft:walls"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

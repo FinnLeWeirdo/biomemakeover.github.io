@@ -1,0 +1,21 @@
+{
+  "name": "Composter",
+  "id": "biomemakeover:ectoplasm_composter",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.6,
+    "destroyTime": 0.6,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

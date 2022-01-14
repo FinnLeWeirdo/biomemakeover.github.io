@@ -1,0 +1,22 @@
+{
+  "name": "Mushroom Stem Brick Wall",
+  "id": "biomemakeover:mushroom_stem_brick_wall",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.8,
+    "destroyTime": 0.8,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/pickaxe",
+      "minecraft:walls"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

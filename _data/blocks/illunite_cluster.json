@@ -1,0 +1,21 @@
+{
+  "name": "Illunite Cluster",
+  "id": "biomemakeover:illunite_cluster",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.5,
+    "destroyTime": 0.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/pickaxe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

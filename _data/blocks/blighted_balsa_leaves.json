@@ -1,0 +1,24 @@
+{
+  "name": "Blighted Balsa Leaves",
+  "id": "biomemakeover:blighted_balsa_leaves",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.2,
+    "destroyTime": 0.2,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:lava_pool_stone_cannot_replace",
+      "minecraft:parrots_spawnable_on",
+      "minecraft:leaves",
+      "minecraft:mineable/hoe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.3,
+    "flameCatchChance": 30,
+    "flameBurnChance": 60
+  },
+  "tags": []
+}

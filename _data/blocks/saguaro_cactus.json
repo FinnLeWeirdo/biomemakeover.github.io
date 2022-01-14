@@ -1,0 +1,21 @@
+{
+  "name": "Saguaro Cactus",
+  "id": "biomemakeover:saguaro_cactus",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.4,
+    "destroyTime": 0.4,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.15,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Marigold",
+  "id": "biomemakeover:marigold",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.0,
+    "destroyTime": 0.0,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:flowers",
+      "minecraft:tall_flowers"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.65,
+    "flameCatchChance": 60,
+    "flameBurnChance": 100
+  },
+  "tags": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tall Red Mushroom",
+  "id": "biomemakeover:tall_red_mushroom",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.0,
+    "destroyTime": 0.0,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.9,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

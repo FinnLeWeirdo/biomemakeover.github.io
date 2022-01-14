@@ -1,0 +1,23 @@
+{
+  "name": "Blighted Balsa Button",
+  "id": "biomemakeover:blighted_balsa_button",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:wooden_buttons",
+      "minecraft:mineable/axe",
+      "minecraft:buttons"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

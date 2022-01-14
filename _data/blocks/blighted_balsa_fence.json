@@ -1,0 +1,23 @@
+{
+  "name": "Blighted Balsa Fence",
+  "id": "biomemakeover:blighted_balsa_fence",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:fences",
+      "minecraft:wooden_fences",
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 5,
+    "flameBurnChance": 20
+  },
+  "tags": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blighted Cobblestone Stairs",
+  "id": "biomemakeover:blighted_cobblestone_stairs",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 2.0,
+    "destroyTime": 2.0,
+    "requiresTool": true
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:stairs",
+      "minecraft:mineable/pickaxe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

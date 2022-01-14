@@ -1,0 +1,21 @@
+{
+  "name": "Glowshroom Stem Brick Slab",
+  "id": "biomemakeover:glowshroom_stem_brick_slab",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.8,
+    "destroyTime": 0.8,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:slabs"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

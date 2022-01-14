@@ -1,0 +1,23 @@
+{
+  "name": "Ancient Oak Stairs",
+  "id": "biomemakeover:ancient_oak_stairs",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:stairs",
+      "minecraft:wooden_stairs",
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 5,
+    "flameBurnChance": 20
+  },
+  "tags": []
+}

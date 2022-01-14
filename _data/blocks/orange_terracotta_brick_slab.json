@@ -1,0 +1,21 @@
+{
+  "name": "Orange Terracotta Brick Slab",
+  "id": "biomemakeover:orange_terracotta_brick_slab",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 2.0,
+    "destroyTime": 2.0,
+    "requiresTool": true
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:slabs"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

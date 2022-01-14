@@ -1,0 +1,26 @@
+{
+  "name": "Ancient Oak Log",
+  "id": "biomemakeover:ancient_oak_log",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:logs",
+      "minecraft:mushroom_grow_block",
+      "minecraft:lava_pool_stone_cannot_replace",
+      "minecraft:parrots_spawnable_on",
+      "minecraft:mineable/axe",
+      "minecraft:logs_that_burn"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 5,
+    "flameBurnChance": 20
+  },
+  "tags": []
+}

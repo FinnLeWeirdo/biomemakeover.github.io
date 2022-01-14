@@ -1,0 +1,21 @@
+{
+  "name": "Potted Orange Glowshroom",
+  "id": "biomemakeover:potted_orange_glowshroom",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.0,
+    "destroyTime": 0.0,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:flower_pots"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

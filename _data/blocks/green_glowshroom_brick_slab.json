@@ -1,0 +1,22 @@
+{
+  "name": "Green Glowshroom Brick Slab",
+  "id": "biomemakeover:green_glowshroom_brick_slab",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.8,
+    "destroyTime": 0.8,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe",
+      "minecraft:slabs"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

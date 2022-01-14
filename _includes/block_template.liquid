@@ -1,0 +1,23 @@
+{% assign item = include.block %}
+
+# {{ item.name }}
+
+## Description  
+{{item.description}}  
+
+
+## Behaviour  
+**Explosion Resistance:** {{item.settings.explosionResistance}}
+**Break Strength:** {{item.settings.destroyTime}}
+**Requires Tool:** {{item.settings.requiresTool}}
+
+
+## Tags  
+{% for tag in item.blockTags.tags %}
+- {{ effect }}
+{% endfor %}
+
+## Modifiers
+**Compost Chance:** {{item.modifiers.compostChance}}
+**Flame Catch Chance:** {{item.modifiers.flameCatchChance}}
+**Burn Chance:** {{item.modifiers.flameBurnChance}}

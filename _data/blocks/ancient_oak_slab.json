@@ -1,0 +1,23 @@
+{
+  "name": "Ancient Oak Slab",
+  "id": "biomemakeover:ancient_oak_slab",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:wooden_slabs",
+      "minecraft:mineable/axe",
+      "minecraft:slabs"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 5,
+    "flameBurnChance": 20
+  },
+  "tags": []
+}

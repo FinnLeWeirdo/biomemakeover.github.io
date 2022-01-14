@@ -1,0 +1,22 @@
+{
+  "name": "Polished Mesermite Stairs",
+  "id": "biomemakeover:polished_mesmerite_stairs",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:stairs",
+      "minecraft:mineable/pickaxe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

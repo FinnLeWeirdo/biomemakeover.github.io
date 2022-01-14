@@ -1,0 +1,21 @@
+{
+  "name": "Red Mushroom Bricks",
+  "id": "biomemakeover:red_mushroom_brick",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 0.8,
+    "destroyTime": 0.8,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Pink Tapestry",
+  "id": "biomemakeover:pink_tapestry",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.0,
+    "destroyTime": 1.0,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": []
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Willow Pressure Plate",
+  "id": "biomemakeover:willow_pressure_plate",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:wall_post_override",
+      "minecraft:pressure_plates",
+      "minecraft:mineable/axe",
+      "minecraft:wooden_pressure_plates"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 0,
+    "flameBurnChance": 0
+  },
+  "tags": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blighted Balsa Planks",
+  "id": "biomemakeover:blighted_balsa_planks",
+  "description": "This block does not have a description yet!",
+  "settings": {
+    "explosionResistance": 1.5,
+    "destroyTime": 1.5,
+    "requiresTool": false
+  },
+  "blockTags": {
+    "tags": [
+      "minecraft:mineable/axe",
+      "minecraft:planks"
+    ]
+  },
+  "modifiers": {
+    "compostChance": 0.0,
+    "flameCatchChance": 5,
+    "flameBurnChance": 20
+  },
+  "tags": []
+}
