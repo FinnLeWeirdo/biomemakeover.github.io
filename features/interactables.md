@@ -3,6 +3,8 @@ title: Interactables
 ---
 
 ## Ectoplasm
+[Item Page](../content/items/ectoplasm)
+
 Using ectoplasm in a composter (that has already had some compostable material placed in it) will consume the ectoplasm. This will cause the composter to create soul soil.  
 Ectoplasm can be inserted into a composter via a hopper.
 
