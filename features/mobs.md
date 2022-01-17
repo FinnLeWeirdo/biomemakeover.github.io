@@ -29,3 +29,16 @@ Feeding pink petals to a scuttler will stop it from running away from you, also 
 ## Bandit  
 Bandits spawn in Badlands biomes as a replacement for Pillager raiding parties. 
 The ride horses, wear cowboy hats and would love to shoot you with a crossbow.
+
+## Dragonfly  
+The dragonfly is a ambient mob that spawns in Swamp biomes.  It comes in several different colour variants.  
+When killed, it can drop dragon fly wings that can be used to breed toads.  
+
+## Lightning Bug  
+The lightning bug is an ambient mob that spawns in Swamp Biomes. It can be captured in a glass bottle to create a new lantern or caught in a bottle o' enchanting to create a bottle o' lightning. 
+
+## Toad  
+The toad is a passive mob that lives in the swamp. It wil eat nearby bugs and they can be bread with dragonfly wings. It drops warts that can be brewed into an antidote.
+
+## Decayed  
+The decayed is a zombie variant that spawns in the swamp. These slimy boys use a shield to defend themselves so may be a tricky fight.

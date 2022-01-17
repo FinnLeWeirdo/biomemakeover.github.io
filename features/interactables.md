@@ -23,3 +23,6 @@ It interacts with:
 * Bells
 
 It can be toggled on/off with a redstone signal.
+
+## Soul Embers  
+Soul Embers, a reward from witch quests can be used as a replacement for blaze powder in brewing stands.
