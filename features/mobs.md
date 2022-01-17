@@ -47,4 +47,17 @@ The decayed is a zombie variant that spawns in the swamp. These slimy boys use a
 Witch quests are available when you're wearing a witch hat. Interacting with a witch will give you a menu showing the requested items along with the difficulty level.  
 When you hand in every item for a quest, you'll get a reward based on the difficulty of the quest.  
 
-After looking at a witch's quest, that witch has an extended despawn timer.
+After looking at a witch's quest, that witch has an extended despawn timer.  
+
+## Rootling  
+Rootlings are passive creatures that spawn in the Dark Forest. Part animal, part plant. Plant rootling seeds to grow your own! These funny little guys can be sheared for their petals (if you can catch them). They also make a tasty snack.
+
+## Owl  
+Owls spawn in dark forest. They can be tamed with any raw meat and they'll fight beside you  
+
+## Stone Golem  
+Crafted out of cladded stone, these fancy fellows can be armed with a crossbow to shoot at your enemies. Stone Golems found within mansions may not be so friendly.
+Crossbows will break overtime and can be equipped via a dispenser.
+
+## Moth  
+This hostile mob spawns above the canopy in Dark Forests. They're attracted to light and moth blossoms. They drop moth scales that can be used to brew the Potion of the Nocturnal, an effect that stops phantoms from spawning on you!
