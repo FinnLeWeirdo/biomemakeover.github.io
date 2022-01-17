@@ -36,3 +36,4 @@ These partially submerged structures generate in swamp biomes. Various loot can 
 ## Peat  
 Peat generates in shallow areas of the swamp. You may see some mossy peat sticking up through the ground.  
 Peat can be tilled to create a fast growing farmland alternative or dried to create various decoration blocks.
+

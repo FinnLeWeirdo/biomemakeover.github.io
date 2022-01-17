@@ -42,3 +42,9 @@ The toad is a passive mob that lives in the swamp. It wil eat nearby bugs and th
 
 ## Decayed  
 The decayed is a zombie variant that spawns in the swamp. These slimy boys use a shield to defend themselves so may be a tricky fight.
+
+## Witch Quests  
+Witch quests are available when you're wearing a witch hat. Interacting with a witch will give you a menu showing the requested items along with the difficulty level.  
+When you hand in every item for a quest, you'll get a reward based on the difficulty of the quest.  
+
+After looking at a witch's quest, that witch has an extended despawn timer.
